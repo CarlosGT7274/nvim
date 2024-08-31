@@ -2,7 +2,7 @@
 
 
 
-![image-20240831121921430](/home/carlos/.config/Typora/typora-user-images/image-20240831121921430.png)
+![image-20240831121921430](/home/carlos/.config/nvim/preview/image-20240831121921430.png)
 
 
 # neovim
