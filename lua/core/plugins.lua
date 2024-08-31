@@ -141,13 +141,13 @@ require("lazy").setup({
 		},
 		opts = {}                  -- your configuration
 	},
-	{
-		"lukas-reineke/indent-blankline.nvim",
-		main = "ibl",
-		---@module "ibl"
-		---@type ibl.config
-		opts = {},
-	},
+	-- {
+	-- 	"lukas-reineke/indent-blankline.nvim",
+	-- 	main = "ibl",
+	-- 	---@module "ibl"
+	-- 	---@type ibl.config
+	-- 	opts = {},
+	-- },
 	{
 		"nmac427/guess-indent.nvim",
 		event = "VeryLazy",
